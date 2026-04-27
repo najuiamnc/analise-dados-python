@@ -16,8 +16,7 @@
 
 ## 🖼️ Preview
 
-![Dashboard](img/dashboard.png)
-
+![Dashboard](https://najuiamnc.github.io/portfolio-pessoal/img/dashboard.png)
 ---
 
 ## 🛠️ Tecnologias
