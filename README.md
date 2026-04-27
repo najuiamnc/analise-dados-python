@@ -2,10 +2,10 @@
 
 Este projeto realiza uma análise mensal de testes de software, calculando taxas de aprovação e gerando visualizações gráficas.
 
-### 🛠️ Tecnologias
+### Tecnologias
 - **Python 3**
 - **Pandas**: Manipulação e análise de dados.
 - **Matplotlib**: Geração de gráficos de linha.
 
-### 📈 Resultado
+### Resultado
 ![Relatório de Testes](relatorio.png)
