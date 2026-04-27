@@ -16,7 +16,7 @@
 
 ## 🖼️ Preview
 
-![Dashboard] (img/dashboard.png)
+![Dashboard](img/dashboard.png)
 
 ---
 
